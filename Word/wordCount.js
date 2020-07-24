@@ -12,4 +12,4 @@ function wordCount(word) {
   return count;
 }
 
-console.log(wordCount('why it is not working while i am calling the function, whatever the main thing is it working'));
+console.log(wordCount('this is working'));
